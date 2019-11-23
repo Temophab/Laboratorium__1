@@ -34,5 +34,4 @@ public class ResultActivity extends AppCompatActivity {
 
         resultTextView.setText(result);
     }
-
 }
